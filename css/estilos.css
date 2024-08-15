@@ -1,0 +1,25 @@
+
+
+
+
+
+
+@media (min-width:770px) and (max-width:980) {
+
+
+    iframe{
+        width:80%;
+        
+    }
+    
+}
+
+@media (min-width:375px) and (max-width:546) {
+    .card{
+        margin: 0 auto;
+    }
+
+    iframe{
+        width:50%;
+    }
+}
